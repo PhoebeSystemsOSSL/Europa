@@ -1,0 +1,1 @@
+This library aims at being usefull to speed up development of C aplications it's only requirements are the stdlib.h header with a definition of malloc, realloc and free.
